@@ -1,1 +1,2 @@
 <h1>Este es el segundo archivo del proyecto</h1>
+Se edita el archivo Practica2.txt desde GitHub
